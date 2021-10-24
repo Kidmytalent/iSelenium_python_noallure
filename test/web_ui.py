@@ -3,9 +3,8 @@
 # @FileName: web_ui.py
 # @Date: 2021/10/24  16:30
 
-import allure
+
 import configparser
-import os
 import time
 import unittest
 
